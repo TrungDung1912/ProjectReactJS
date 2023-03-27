@@ -1,0 +1,7 @@
+[
+	{"id": 1, "email": "abcd@email.com", "name": "Huy", "gender": "Male", "pass": "abcd" },
+	{"id": 2, "email": "abcd1@email.com", "name": "Truong", "gender": "Male", "pass": "abcd1" },
+	{"id": 3, "email": "abcd2@email.com", "name": "Dung", "gender": "Male", "pass": "abcd2" },
+	{"id": 4, "email": "abcd3@email.com", "name": "Dat",   "gender": "Female", "pass": "abcd3" },
+	{"id": 5, "email": "abcd4@email.com", "name": "Linh", "gender": "Female", "pass": "abcd4" }
+]

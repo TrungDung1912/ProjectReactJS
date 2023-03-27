@@ -1,0 +1,8 @@
+[
+	{"id": 1, "category": "Action"},
+	{"id": 2, "category": "Romantic"},
+	{"id": 3, "category": "Horror"},
+	{"id": 4, "category": "Cartoon"},
+    {"id": 5, "category": "Science Fiction"}
+
+]
